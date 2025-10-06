@@ -1,2 +1,2 @@
-# My-project
-A new user's first project of github
+# README
+本项目是作者用于学习python的
